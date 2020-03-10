@@ -2,12 +2,17 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'I''m Mikey, a Front-End Web Developer'
     section_id: hero
     component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I'm currently working remotely as a freelancer and contractor, but I'm
+      looking for full time employment. </br>
+
+
+      I'm experienced working through the whole website development cycle, from
+      design to completion. I'm skilled using HTML, CSS (+Sass), Javascript,
+      React and Gatsby.
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
