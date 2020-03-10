@@ -6,13 +6,10 @@ sections:
     section_id: hero
     component: HeroBlock
     content: >-
-      I'm currently working remotely as a freelancer and contractor, but I'm
-      looking for full time employment. </br>
-
-
-      I'm experienced working through the whole website development cycle, from
-      design to completion. I'm skilled using HTML, CSS (+Sass), Javascript,
-      React and Gatsby.
+      Having started my journey as a freelancer and contractor, I'm experienced
+      working through the whole website development cycle, from design to
+      completion. I'm skilled using HTML, CSS (+Sass), Javascript, React and
+      Gatsby.
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
