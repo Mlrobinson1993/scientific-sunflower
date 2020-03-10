@@ -8,15 +8,15 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-  - type: portfolioblock
-    title: Recent Work
-    section_id: latest-projects
-    component: PortfolioBlock
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
+  - view_all_text: View All
     num_projects_displayed: 6
-    view_all_text: View All
+    section_id: latest-projects
     view_all_url: portfolio/index.html
+    subtitle: An optional subtitle of the section
+    title: Recent Work
+    type: portfolioblock
+    layout_style: mosaic
+    component: PortfolioBlock
   - type: servicesblock
     title: What We Do
     section_id: services
@@ -48,11 +48,11 @@ sections:
     component: TestimonialsBlock
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
+      - author: Paul Read
+        avatar: ''
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          From idea to completion, the whole process was so easy. It was a
+          pleasure to work with Mike and have him on board.
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
@@ -68,11 +68,6 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
-  - type: contactblock
-    title: Contact Us
-    section_id: contact
-    component: ContactBlock
-    subtitle: An optional subtitle of the section
 menus:
   main:
     title: Home
