@@ -8,8 +8,8 @@ sections:
     content: >-
       Having started my journey as a freelancer and contractor, I'm experienced
       working through the whole website development cycle, from design to
-      completion. I'm skilled using HTML, CSS (+Sass), Javascript, React and
-      Gatsby.
+      completion. I love using HTML, CSS (+Sass), Javascript, React and Gatsby
+      to craft beautiful, functional websites and applications.
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
