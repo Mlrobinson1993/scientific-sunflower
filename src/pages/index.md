@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'I''m Mikey, a Front-End Web Developer'
+    title: "I'm Mikey, a Front-End Web Developer"
     section_id: hero
     component: HeroBlock
     image: images/me-colourful.jpg
@@ -11,12 +11,8 @@ sections:
       working through the whole website development cycle, from design to
       completion. I love using HTML, CSS (+Sass), Javascript, React and Gatsby
       to craft beautiful, functional websites and applications.
-<<<<<<< HEAD
     resumeURL: documents/MichaelRobinsonResume.pdf
-  - view_all_text: View All
-=======
   - view_all_text: See More
->>>>>>> 52d1dd1b0274b4cf74dab88a45f7d754c64667b6
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
