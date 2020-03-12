@@ -12,7 +12,7 @@ sections:
       completion. I love using HTML, CSS (+Sass), Javascript, React and Gatsby
       to craft beautiful, functional websites and applications.
   - view_all_text: See More
-    num_projects_displayed: 6
+    num_projects_displayed: 5
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: An optional subtitle of the section
