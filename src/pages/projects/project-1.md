@@ -1,9 +1,9 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
-date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+title: Brisbane Whale Watching
+subtitle: ''
+date: 2020-03-01T16:00:00.000Z
+thumb_img_path: /images/bww-portfolio-item.svg
+content_img_path: /images/bww-portfolio-item.svg
 template: project
 ---
 
