@@ -1,5 +1,5 @@
 ---
-title: Sales Funnel
+title: Mikey Robinson  Web Developer - Sales Funnel
 subtitle: 'React, Gatsby, Styled Components'
 date: '2019-04-30'
 thumb_img_path: /images/mrobinson-banner.svg
