@@ -1,9 +1,9 @@
 ---
-title: Weather App
-subtitle: 'HTML, CSS, Javascript'
+title: Diverse Group
+subtitle: 'React, Next.js, Styled Components'
 date: '2019-04-08'
-thumb_img_path: /images/weather-app.svg
-content_img_path: /images/weather-app.svg
+thumb_img_path: /images/diverse-banner.svg
+content_img_path: /images/diverse-banner.svg
 template: project
 ---
-Check it out [here](https://mrobinson-weather.netlify.com/).
+Project is a business administration system and is therefore unavailable for viewing.
