@@ -42,11 +42,20 @@ sections:
         content: >-
           My time as a freelancer and contractor has allowed me to develop the
           necessary procedures to ensure that no matter what, deadlines are met.
-      - title: Service title
-        content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
+      - {}
+  - type: servicesblock
+    component: ServicesBlock
+    title: Hard Skills
+    section_id: hardskills
+    subtitle: 'Technologies '
+    serviceslist:
+      - title: HTML
+      - title: CSS (+Sass)
+      - title: Javascript
+      - title: React.js
+      - title: Gatsby
+      - title: GraphQL
+      - title: Node.js
   - type: testimonialsblock
     title: Testimonials
     section_id: testimonials
