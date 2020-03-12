@@ -13,16 +13,27 @@ export default class HeroBlock extends React.Component {
 			>
 				<Container>
 					<ImageContainer>
-						<Img loading="lazy" alt="photograph of Mikey standing in front of a colourful wall" src={_.get(this.props, 'section.image')} />
+						<Img
+							loading='lazy'
+							alt='photograph of Mikey standing in front of a colourful wall'
+							src={_.get(this.props, 'section.image')}
+						/>
 					</ImageContainer>
 					<div className='inner-small'>
 						<div className='block-header'>
-							<H2>{_.get(this.props, 'section.title')}</H2>
+							<h2>{_.get(this.props, 'section.title')}</h2>
 						</div>
 						<div className='block-content'>
 							<div className='block-copy'>
 								{markdownify(_.get(this.props, 'section.content'))}
 							</div>
+							<a
+								class='button'
+								href={_.get(this.props, 'section.resumeURL')}
+								download
+							>
+								Download my resume
+							</a>
 						</div>
 					</div>
 				</Container>
@@ -63,5 +74,3 @@ const Img = styled.img`
 	margin: 0 auto;
 	height: auto;
 `;
-
-const H2 = styled.h2``;

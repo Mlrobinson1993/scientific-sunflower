@@ -11,6 +11,7 @@ sections:
       working through the whole website development cycle, from design to
       completion. I love using HTML, CSS (+Sass), Javascript, React and Gatsby
       to craft beautiful, functional websites and applications.
+    resumeURL: documents/MichaelRobinsonResume.pdf
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
