@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: "I'm Mikey, a Front-End Web Developer"
+    title: 'I''m Mikey, a Front-End Web Developer'
     section_id: hero
     component: HeroBlock
     image: images/me-colourful.jpg
@@ -18,7 +18,7 @@ sections:
     subtitle: An optional subtitle of the section
     title: Recent Work
     type: portfolioblock
-    layout_style: mosaic
+    layout_style: tiles
     component: PortfolioBlock
   - type: servicesblock
     title: What We Do
