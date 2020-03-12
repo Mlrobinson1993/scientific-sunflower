@@ -11,14 +11,14 @@ sections:
       working through the whole website development cycle, from design to
       completion. I love using HTML, CSS (+Sass), Javascript, React and Gatsby
       to craft beautiful, functional websites and applications.
-  - view_all_text: View All
+  - view_all_text: See More
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: An optional subtitle of the section
     title: Recent Work
     type: portfolioblock
-    layout_style: tiles
+    layout_style: mosaic
     component: PortfolioBlock
   - type: servicesblock
     title: What We Do
