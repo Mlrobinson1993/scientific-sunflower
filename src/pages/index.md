@@ -42,7 +42,11 @@ sections:
         content: >-
           My time as a freelancer and contractor has allowed me to develop the
           necessary procedures to ensure that no matter what, deadlines are met.
-      - {}
+      - title: Problem Solving
+        content: >-
+          Solving problems is what I love the most about my job. So much so that
+          I've worked on developing problem solving methods and frameworks to
+          streamline my process and get faster results.
   - type: testimonialsblock
     title: Testimonials
     section_id: testimonials
