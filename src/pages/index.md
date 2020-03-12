@@ -38,10 +38,10 @@ sections:
           driven, self-motivated and resourceful. This allows me to consume
           information learn new technologies and concepts with little, or no
           supervision.
-      - title: Service title
+      - title: Time Management
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          My time as a freelancer and contractor has allowed me to develop the
+          necessary procedures to ensure that no matter what, deadlines are met.
       - title: Service title
         content: >-
           Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
