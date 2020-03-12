@@ -1,9 +1,9 @@
 ---
-title: Diverse Group
-subtitle: 'React, Next.js, Styled Components'
+title: Task Manager
+subtitle: 'React, Styled Components, Firebase'
 date: '2019-01-05'
-thumb_img_path: /images/diverse-banner.svg
-content_img_path: /images/diverse-banner.svg
+thumb_img_path: /images/undraw_under_construction_46pa-1-.svg
+content_img_path: /images/undraw_under_construction_46pa-1-.svg
 template: project
 ---
-Project not available for viewing.
+Coming soon.
