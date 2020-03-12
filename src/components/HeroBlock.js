@@ -13,7 +13,7 @@ export default class HeroBlock extends React.Component {
 			>
 				<Container>
 					<ImageContainer>
-						<Img src={_.get(this.props, 'section.image')} />
+						<Img loading="lazy" alt="photograph of Mikey standing in front of a colourful wall" src={_.get(this.props, 'section.image')} />
 					</ImageContainer>
 					<div className='inner-small'>
 						<div className='block-header'>
