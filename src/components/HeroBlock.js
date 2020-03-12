@@ -27,13 +27,22 @@ export default class HeroBlock extends React.Component {
 							<div className='block-copy'>
 								{markdownify(_.get(this.props, 'section.content'))}
 							</div>
-							<a
-								class='button'
-								href={_.get(this.props, 'section.resumeURL')}
-								download
-							>
-								Download my resume
-							</a>
+							<BtnContainer>
+								<a
+									class='button'
+									href={_.get(this.props, 'section.resumeURL')}
+									download
+								>
+									Download my resume
+								</a>
+								<a
+									class='button'
+									href='www.github.com/mlrobinson1993'
+									target='_blank'
+								>
+									Check out my Github
+								</a>
+							</BtnContainer>
 						</div>
 					</div>
 				</Container>
@@ -73,4 +82,15 @@ const Img = styled.img`
 	max-width: auto;
 	margin: 0 auto;
 	height: auto;
+`;
+
+const BtnContainer = styled.div`
+	a {
+		margin: 1rem 1rem 1rem 0;
+	}
+
+	@media (max-width: 580px) {
+		a {
+			margin: 1rem 0;
+	}
 `;
