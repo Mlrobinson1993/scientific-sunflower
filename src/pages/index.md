@@ -2,9 +2,10 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'I''m Mikey, a Front-End Web Developer'
+    title: "I'm Mikey, a Front-End Web Developer"
     section_id: hero
     component: HeroBlock
+    image: images/me-colourful.jpg
     content: >-
       Having started my journey as a freelancer and contractor, I'm experienced
       working through the whole website development cycle, from design to
@@ -34,7 +35,7 @@ sections:
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
