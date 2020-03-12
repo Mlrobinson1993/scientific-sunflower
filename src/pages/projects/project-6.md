@@ -1,9 +1,9 @@
 ---
-title: 'Task Manager: Coming soon'
-subtitle: 'React, Styled Components'
+title: Weather App
+subtitle: 'HTML, CSS, Javascript'
 date: '2018-12-18'
-thumb_img_path: /images/undraw_under_construction_46pa-1-.svg
-content_img_path: /images/undraw_under_construction_46pa-1-.svg
+thumb_img_path: /images/weather-app.svg
+content_img_path: /images/weather-app.svg
 template: project
 ---
-Coming soon.
+Check it out [here](https://mrobinson-weather.netlify.com/).
