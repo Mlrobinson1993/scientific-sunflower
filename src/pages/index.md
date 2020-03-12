@@ -16,7 +16,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
-    subtitle: An overview of my experience
+    subtitle: Check out some of the projects I'm proud of
     title: Recent Work
     type: portfolioblock
     layout_style: mosaic
@@ -43,19 +43,6 @@ sections:
           My time as a freelancer and contractor has allowed me to develop the
           necessary procedures to ensure that no matter what, deadlines are met.
       - {}
-  - type: servicesblock
-    component: ServicesBlock
-    title: Hard Skills
-    section_id: hardskills
-    subtitle: 'Technologies '
-    serviceslist:
-      - title: HTML
-      - title: CSS (+Sass)
-      - title: Javascript
-      - title: React.js
-      - title: Gatsby
-      - title: GraphQL
-      - title: Node.js
   - type: testimonialsblock
     title: Testimonials
     section_id: testimonials
