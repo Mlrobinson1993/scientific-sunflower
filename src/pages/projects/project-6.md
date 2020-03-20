@@ -1,12 +1,12 @@
 ---
-title: Weather App
+date: '2018-12-18'
+thumb_img_path: /images/weather-app-banner.jpg
+content_img_path: /images/weather-app-banner.jpg
 tag1: HTML
+title: Weather App
+subtitle: 'HTML, CSS, Javascript'
 tag2: CSS
 tag3: Javascript
-subtitle: 'HTML, CSS, Javascript'
-date: '2018-12-18'
-thumb_img_path: /images/weather-app.svg
-content_img_path: /images/weather-app.svg
 template: project
 ---
 
