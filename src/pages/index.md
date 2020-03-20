@@ -54,16 +54,18 @@ sections:
     subtitle: An optional subtitle of the section
     testimonialslist:
       - author: Paul Read
-        avatar: ''
+        avatar: /images/cropped-paul-the-painter-logo-compressed-180x180.png
         content: >-
           From idea to completion, the whole process was so easy. It was a
           pleasure to work with Mike and have him on board.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
+      - author: Jodie Pedwell
+        avatar: /images/jodie.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          It was an absolute pleasure to work with Michael. He is a highly
+          skilled Web Developer who is full of fantastic ideas. I am extremely
+          impressed with the quality of his work and would not hesitate to hire
+          him again in the future. Perfect communication, very professional,
+          amazing value for money, reliable and trustworthy.
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
