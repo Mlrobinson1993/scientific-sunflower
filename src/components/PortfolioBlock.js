@@ -78,7 +78,7 @@ export default class PortfolioBlock extends React.Component {
 												</div>
 											)}
 											<header className='post-header'>
-												<h3 className='post-title'>
+												<h3 className='post-title project-title'>
 													{_.get(post, 'frontmatter.title')}
 												</h3>
 												<ul className='post-tags'>
