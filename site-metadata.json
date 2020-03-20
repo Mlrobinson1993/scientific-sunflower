@@ -4,7 +4,8 @@
   "accent_color": "green",
   "header": {
     "title": "Mikey Robinson",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/logo.png"
   },
   "footer": {
     "content": "",
