@@ -5,6 +5,12 @@
       "title": "About",
       "url": "/#hero/",
       "weight": 2
+    },
+    {
+      "identifier": "Portfolio",
+      "title": "Portfolio",
+      "url": "#portfolio",
+      "weight": 3
     }
   ]
 }
