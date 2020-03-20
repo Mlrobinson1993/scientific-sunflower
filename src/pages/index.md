@@ -23,9 +23,9 @@ sections:
     component: PortfolioBlock
   - type: servicesblock
     title: My Skills
-    section_id: services
+    section_id: skills
     component: ServicesBlock
-    subtitle: My Skills
+    subtitle: ''
     serviceslist:
       - title: Written / Verbal Communication
         content: >-
