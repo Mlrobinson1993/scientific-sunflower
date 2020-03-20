@@ -49,7 +49,7 @@ export default class Portfolio extends React.Component {
 											</div>
 										)}
 										<header className='post-header'>
-											<h2 className='post-title'>
+											<h2 className='post-title project-title'>
 												{_.get(post, 'frontmatter.title')}
 											</h2>
 											<ul className='post-tags'>
