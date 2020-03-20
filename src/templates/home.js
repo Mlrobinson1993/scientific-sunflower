@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import ContactSection from '../components/ContactSection';
 
 import components, { Layout } from '../components/index';
 
