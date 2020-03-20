@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTag } from '@fortawesome/free-solid-svg-icons';
 import { htmlToReact, getPages, Link, safePrefix } from '../utils';
 
 export default class PortfolioBlock extends React.Component {
@@ -85,6 +86,7 @@ export default class PortfolioBlock extends React.Component {
 													{_.get(post, 'frontmatter.categories')}
 												</small>
 												<ul className='post-tags'>
+													<FontAwesomeIcon icon={faTag} />
 													<li>{_.get(post, 'frontmatter.tag1')}</li>
 													<li>{_.get(post, 'frontmatter.tag2')}</li>
 													<li>{_.get(post, 'frontmatter.tag3')}</li>

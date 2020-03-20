@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import Social from './Social';
 
 import { markdownify } from '../utils';
 
@@ -40,6 +39,7 @@ export default class HeroBlock extends React.Component {
 									class='button'
 									href='https://www.github.com/mlrobinson1993'
 									target='_blank'
+									rel='noopener noreferrer'
 								>
 									Check out my Github
 								</a>
