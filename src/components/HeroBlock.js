@@ -42,7 +42,7 @@ export default class HeroBlock extends React.Component {
 								>
 									Check out my Github
 								</a>
-							</d>
+							</div>
 						</div>
 					</div>
 				</div>
