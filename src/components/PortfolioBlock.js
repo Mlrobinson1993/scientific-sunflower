@@ -81,6 +81,9 @@ export default class PortfolioBlock extends React.Component {
 												<h3 className='post-title project-title'>
 													{_.get(post, 'frontmatter.title')}
 												</h3>
+												<small class='post-categories'>
+													{_.get(post, 'frontmatter.categories')}
+												</small>
 												<ul className='post-tags'>
 													<li>{_.get(post, 'frontmatter.tag1')}</li>
 													<li>{_.get(post, 'frontmatter.tag2')}</li>

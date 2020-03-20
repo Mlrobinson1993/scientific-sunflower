@@ -7,6 +7,7 @@ title: Weather App
 subtitle: 'HTML, CSS, Javascript'
 tag2: CSS
 tag3: Javascript
+categories: Personal Project
 template: project
 ---
 

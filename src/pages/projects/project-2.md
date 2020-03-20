@@ -7,6 +7,7 @@ title: Business Sales Page
 subtitle: 'React, Gatsby, Styled Components'
 tag2: Gatsby
 tag3: Styled Components
+categories: Commercial Project
 template: project
 ---
 

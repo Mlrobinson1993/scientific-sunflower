@@ -8,6 +8,7 @@ subtitle: 'React, Styled Components, Firebase'
 tag2: Styled Components
 tag3: Firebase
 template: project
+categories: Personal Project
 tag4: Formik
 ---
 

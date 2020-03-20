@@ -7,6 +7,7 @@ title: Diverse Group
 subtitle: 'React, Next.js, Styled Components'
 tag2: Next.js
 tag3: Styled Components
+categories: Commercial Project
 template: project
 ---
 

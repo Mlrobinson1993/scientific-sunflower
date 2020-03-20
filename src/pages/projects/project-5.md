@@ -7,6 +7,7 @@ title: Travel Budget Tracker
 subtitle: 'HTML, CSS, Javascript'
 tag2: CSS3
 tag3: Javascript
+categories: Personal Project
 template: project
 ---
 

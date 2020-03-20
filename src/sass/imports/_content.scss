@@ -49,6 +49,14 @@
 			}
 		}
 	}
+
+	.post-categories {
+		text-align: left;
+		width: 90%;
+		top: 50%;
+		margin: 0;
+		padding: 0;
+	}
 }
 
 .post-meta {
@@ -279,6 +287,10 @@
 					opacity: 1;
 				}
 
+				.post-categories {
+					opacity: 1;
+				}
+
 				.post-thumbnail {
 					&:before {
 						opacity: 1;
@@ -316,6 +328,20 @@
 			width: 80%;
 			text-align: center;
 			top: 30%;
+		}
+
+		.post-categories {
+			left: 50%;
+			opacity: 0;
+			position: absolute;
+			text-align: center;
+			-webkit-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+			-webkit-transition: opacity 0.3s;
+			transition: opacity 0.3s;
+			z-index: 2;
+			text-align: center;
+			top: 40%;
 		}
 
 		.post-tags {
