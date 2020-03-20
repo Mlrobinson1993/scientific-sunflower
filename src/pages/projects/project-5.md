@@ -1,12 +1,12 @@
 ---
-title: Travel Budget Tracker
+date: '2019-01-05'
+thumb_img_path: /images/budgety-banner.jpg
+content_img_path: /images/budgety-banner.jpg
 tag1: HTML5
+title: Travel Budget Tracker
+subtitle: 'HTML, CSS, Javascript'
 tag2: CSS3
 tag3: Javascript
-subtitle: 'HTML, CSS, Javascript'
-date: '2019-01-05'
-thumb_img_path: /images/budgety-banner.svg
-content_img_path: /images/budgety-banner.svg
 template: project
 ---
 
