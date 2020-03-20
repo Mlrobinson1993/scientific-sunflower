@@ -1,7 +1,7 @@
 ---
 date: '2019-02-26'
 thumb_img_path: /images/auth-banner.jpg
-content_img_path: ''
+content_img_path: /images/auth-banner.jpg
 tag1: React
 title: Authentication Template
 subtitle: 'React, Styled Components, Firebase'
