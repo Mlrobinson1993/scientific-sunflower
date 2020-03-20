@@ -47,34 +47,6 @@ sections:
           Solving problems is what I love the most about my job. So much so that
           I've worked on developing problem solving methods and frameworks to
           streamline my process and get faster results.
-  - type: testimonialsblock
-    title: Testimonials
-    section_id: testimonials
-    component: TestimonialsBlock
-    subtitle: An optional subtitle of the section
-    testimonialslist:
-      - author: Paul Read
-        avatar: /images/cropped-paul-the-painter-logo-compressed-180x180.png
-        content: >-
-          From idea to completion, the whole process was so easy. It was a
-          pleasure to work with Mike and have him on board.
-      - author: Jodie Pedwell
-        avatar: /images/jodie.jpg
-        content: >-
-          It was an absolute pleasure to work with Michael. He is a highly
-          skilled Web Developer who is full of fantastic ideas. I am extremely
-          impressed with the quality of his work and would not hesitate to hire
-          him again in the future. Perfect communication, very professional,
-          amazing value for money, reliable and trustworthy.
-  - type: postsblock
-    title: Latest from the Blog
-    section_id: latest-posts
-    component: PostsBlock
-    subtitle: An optional subtitle of the section
-    num_posts_displayed: 2
-    actions:
-      - label: View Blog
-        url: blog/index.html
 menus:
   main:
     title: Home
