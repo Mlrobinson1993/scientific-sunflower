@@ -14,27 +14,27 @@ export default class Contact extends React.Component {
 					<div className='inner'>
 						<article className='post page post-full'>
 							<header className='post-header inner-small'>
-								<h1 className='post-title line-top'>
+								<h1 className='post-title contact-header line-top'>
 									{_.get(this.props, 'pageContext.frontmatter.title')}
 								</h1>
 								{_.get(this.props, 'pageContext.frontmatter.subtitle') && (
-									<div className='post-subtitle'>
+									<div className='post-subtitle contact-subtitle'>
 										{htmlToReact(
 											_.get(this.props, 'pageContext.frontmatter.subtitle')
 										)}
 									</div>
 								)}
-								<a
-									class='button'
-									href='mailto:mrobinsonwebdev@gmail.com'
-									target='_blank'
-								>
-									mrobinsonwebdev@gmail.com
-								</a>
-								{_.get(
-									this.props,
-									'pageContext.site.siteMetadata.footer.has_social'
-								) && <Social {...this.props} />}
+								<div className='contact-container'>
+									<a
+										class='button'
+										href='mailto:mrobinsonwebdev@gmail.com'
+										target='_blank'
+										style={{ margin: '1.5rem 0' }}
+									>
+										mrobinsonwebdev@gmail.com
+									</a>
+									<Social {...this.props} />
+								</div>
 							</header>
 							{_.get(this.props, 'pageContext.frontmatter.img_path') && (
 								<div className='post-thumbnail'>
