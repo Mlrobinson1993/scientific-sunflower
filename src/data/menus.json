@@ -1,12 +1,6 @@
 {
   "main": [
     {
-      "identifier": "Portfolio",
-      "title": "Portfolio",
-      "url": "/#portfolio",
-      "weight": 2
-    },
-    {
       "identifier": "Skills",
       "title": "Skills",
       "url": "#skills",
