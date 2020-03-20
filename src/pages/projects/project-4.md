@@ -10,5 +10,4 @@ tag3: Firebase
 template: project
 tag4: Formik
 ---
-
-Coming soon.
+Check it out [here](https://auth-template-mrobinsonwebdev.netlify.com).
