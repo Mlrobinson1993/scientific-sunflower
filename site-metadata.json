@@ -1,10 +1,11 @@
 {
-  "title": "Stackbit Exto Theme",
+  "title": "Mikey Robinson - Front End Web Developer Portfolio",
   "color_scheme": "light",
   "accent_color": "green",
   "header": {
     "title": "Mikey Robinson",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/mr-logo-1.png"
   },
   "footer": {
     "content": "",
