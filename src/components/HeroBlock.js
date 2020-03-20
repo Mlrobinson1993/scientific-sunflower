@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import Social from './Social';
 
 import { markdownify } from '../utils';
 
