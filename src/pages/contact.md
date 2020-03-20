@@ -1,10 +1,9 @@
 ---
 title: Contact
+subtitle: 'If you want to get in touch, you can find me at:'
 menus:
   main:
     title: Contact
-    weight: 5
+    weight: 4
 template: contact
 ---
-
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
