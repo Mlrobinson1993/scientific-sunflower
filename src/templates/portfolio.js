@@ -15,7 +15,7 @@ export default class Portfolio extends React.Component {
 			<Layout {...this.props}>
 				<div className='outer'>
 					<div className='inner'>
-						<header className='page-header inner-small'>
+						<header className='page-header portfolio-header inner-small'>
 							<h1 className='page-title line-top'>
 								{_.get(this.props, 'pageContext.frontmatter.title')}
 							</h1>
