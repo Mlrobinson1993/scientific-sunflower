@@ -30,6 +30,7 @@ export default class Contact extends React.Component {
 										href='mailto:mrobinsonwebdev@gmail.com'
 										target='_blank'
 										style={{ margin: '1.5rem 0' }}
+										rel='noopener noreferrer'
 									>
 										mrobinsonwebdev@gmail.com
 									</a>
