@@ -38,7 +38,7 @@ export default class HeroBlock extends React.Component {
 								</a>
 								<a
 									class='button'
-									href='www.github.com/mlrobinson1993'
+									href='https://www.github.com/mlrobinson1993'
 									target='_blank'
 								>
 									Check out my Github
