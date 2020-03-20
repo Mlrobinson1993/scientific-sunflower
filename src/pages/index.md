@@ -14,7 +14,7 @@ sections:
     resumeURL: documents/MichaelRobinsonResume.pdf
   - view_all_text: See More
     num_projects_displayed: 6
-    section_id: latest-projects
+    section_id: portfolio
     view_all_url: portfolio/index.html
     subtitle: Check out some of the projects I'm proud of
     title: Recent Work
@@ -25,7 +25,7 @@ sections:
     title: My Skills
     section_id: services
     component: ServicesBlock
-    subtitle: ''
+    subtitle: My Skills
     serviceslist:
       - title: Written / Verbal Communication
         content: >-
