@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "About",
+      "title": "About",
+      "url": "/#hero/",
+      "weight": 2
+    }
+  ]
+}
