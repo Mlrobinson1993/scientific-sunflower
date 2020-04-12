@@ -1,7 +1,7 @@
 ---
 date: '2020-04-02'
-thumb_img_path: /images/taskmanager-macbook.png
-content_img_path: /images/taskmanager-macbook.png
+thumb_img_path: /images/taskmanagerbanner.png
+content_img_path: /images/taskmanagerbanner.png
 tag1: React.js
 title: Task Manager
 subtitle: 'React.js, Firebase, Formik, Styled Components'
