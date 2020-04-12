@@ -1,14 +1,9 @@
 ---
-date: '2020-04-02'
-thumb_img_path: /images/macbook-taskmanager.png
-content_img_path: /images/macbook-taskmanager.png
-tag1: React.js
 title: Task Manager
-subtitle: 'React.js, Firebase, Formik, Styled Components'
-tag2: Firebase
-tag3: Formik
-categories: Personal Project
+subtitle: React.js, Styled Components, Formik, Firebase
+date: 2020-04-12T09:17:00.521Z
+thumb_img_path: /images/taskmanager-macbook.png
+content_img_path: /images/taskmanager-macbook.png
 template: project
 ---
-
 Check it out [here](https://task-manager-mrobinsonwebdev.netlify.com/).
