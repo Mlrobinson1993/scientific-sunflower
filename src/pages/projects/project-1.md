@@ -11,4 +11,4 @@ categories: Commercial Project
 template: project
 ---
 
-Check it out [here](<Check it out [here.](https://www.brisbanewhalewatching.com.au)>).
+Check it out <a href="https://www.brisbanewhalewatching.com.au" target="_blank">here</a>

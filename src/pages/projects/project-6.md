@@ -11,4 +11,4 @@ categories: Personal Project
 template: project
 ---
 
-Check it out [here](https://mrobinson-weather.netlify.com/).
+Check it out <a href="https://mrobinson-weather.netlify.com/" target="_blank">here</a>

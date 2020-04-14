@@ -11,4 +11,4 @@ categories: Personal Project
 template: project
 ---
 
-Check it out [here](https://travel-budgety-app.netlify.com/).
+Check it out <a href="https://travel-budgety-app.netlify.com/" target="_blank">here</a>

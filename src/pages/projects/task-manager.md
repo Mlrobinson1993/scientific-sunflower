@@ -11,4 +11,4 @@ template: project
 categories: Personal Project
 ---
 
-Check it out [here](https://task-manager-mrobinsonwebdev.netlify.com/).
+Check it out <a href="https://task-manager-mrobinsonwebdev.netlify.com/" target="_blank">here</a>

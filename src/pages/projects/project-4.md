@@ -11,4 +11,5 @@ template: project
 categories: Personal Project
 tag4: Formik
 ---
-Check it out [here](https://auth-template-mrobinsonwebdev.netlify.com).
+
+Check it out <a href="https://auth-template-mrobinsonwebdev.netlify.com" target="_blank">here</a>
